@@ -1,0 +1,123 @@
+<style>
+
+div#names {
+
+position: relative;
+
+}.names {
+
+position: absolute;
+
+top: 70%;
+
+left: 9px;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 255px;
+
+background: #00000094;
+
+padding: 5px;
+
+text-align: center;
+
+font: bold 24px/34px Helvetica, Sans-Serif;
+
+}
+div#names {
+
+    position: relative;
+    
+    }.names1 {
+    
+    position: absolute;
+    
+    top: 70%;
+    
+    left: 285px;
+    
+    text-transform: uppercase;
+    
+    color: white;
+    
+    width: 270px;
+    
+    background: #00000094;
+    
+    padding: 5px;
+    
+    text-align: center;
+    
+    font: bold 24px/34px Helvetica, Sans-Serif;
+    
+    }
+    div#names {
+
+        position: relative;
+        
+        }.names2 {
+        
+        position: absolute;
+        
+        top: 70%;
+        
+        left: 585px;
+        
+        text-transform: uppercase;
+        
+        color: white;
+        
+        width: 270px;
+        
+        background: #00000094;
+        
+        padding: 5px;
+        
+        text-align: center;
+        
+        font: bold 24px/34px Helvetica, Sans-Serif;
+        
+        }
+        div#names {
+
+            position: relative;
+            
+            }.names3 {
+            
+            position: absolute;
+            
+            top: 70%;
+            
+            left: 880px;
+            
+            text-transform: uppercase;
+            
+            color: white;
+            
+            width: 270px;
+            
+            background: #00000094;
+            
+            padding: 5px;
+            
+            text-align: center;
+            
+            font: bold 24px/34px Helvetica, Sans-Serif;
+            
+            }
+    
+            div#names   
+            .scale {
+                transition: 1s; /* Время эффекта */
+               }
+               .scale:hover {
+                transform: scale(1.1); /* Увеличиваем масштаб */
+               }
+               
+#fon {
+    background-position: center; background-repeat: no-repeat;
+}
+</style>
